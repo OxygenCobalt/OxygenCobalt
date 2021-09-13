@@ -1,5 +1,5 @@
 Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt.
-I'm a programmer out of Colorado that enjoys android development and systems programming.
+I'm a programmer from Colorado that enjoys android development and systems programming.
 
 #### What I'm working on
 
