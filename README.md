@@ -15,6 +15,8 @@ Currently on the backburner as I focus on Auxio.
 
 [**FXChess**](https://github.com/OxygenCobalt/FXChess): Chess game I created with Java/JavaFX as a learning project
 
+I've also created a number of [Other Projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
+
 #### What I want to do
 
 - More systems/embedded programming
