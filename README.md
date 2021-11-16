@@ -6,9 +6,6 @@ I'm a programmer from Colorado that enjoys android development and systems progr
 [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-[**musikr**](https://github.com/OxygenCobalt/musikr): A WIP command-line music metadata tagger and tagging library.
-Currently on the backburner as I focus on Auxio.
-
 #### What I've done
 
 [**Sweepered**](https://github.com/OxygenCobalt/Sweepered): Minesweeper clone I created with Java/JavaFX as a learning project
