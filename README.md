@@ -14,7 +14,7 @@ a passion project that I work on irregularly.
 - A few games:
   - [**monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
   - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
-	- [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
+  - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
 - Thats about it. I don't really work on small finite projects.
 
