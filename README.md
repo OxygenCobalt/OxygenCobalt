@@ -6,16 +6,17 @@ I'm a programmer from Colorado that enjoys android development and systems progr
 [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-[**musikr**](https://github.com/OxygenCobalt/musikr): A WIP command-line music metadata tagger and tagging library.
-Currently on the backburner as I focus on Auxio.
+[**musikr**](https://github.com/OxygenCobalt/musikr): A command-line music tagger and tagging library. This is largely
+a passion project that I work on irregularly.
 
 #### What I've done
 
-[**Sweepered**](https://github.com/OxygenCobalt/Sweepered): Minesweeper clone I created with Java/JavaFX as a learning project
-
-[**FXChess**](https://github.com/OxygenCobalt/FXChess): Chess game I created with Java/JavaFX as a learning project
-
-I've also created a number of [Other Projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
+- A few games:
+  - [**monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
+  - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
+	- [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
+- A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
+- Thats about it. I don't really work on small finite projects.
 
 #### What I want to do
 
