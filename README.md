@@ -3,11 +3,10 @@ I'm a programmer from Colorado that enjoys android development and systems progr
 
 #### What I'm working on
 
-[**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
+- [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-[**musikr**](https://github.com/OxygenCobalt/musikr): A command-line music tagger and tagging library. This is largely
-a passion project that I work on irregularly.
+- A currently unnamed keepass-compatible password manager
 
 #### What I've done
 
@@ -15,6 +14,7 @@ a passion project that I work on irregularly.
   - [**monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
   - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
   - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
+- [**musikr**](https://github.com/OxygenCobalt/musikr) A partially complete metadata library that I lost interest in
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
 - Thats about it. I don't really work on small finite projects.
 
