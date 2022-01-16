@@ -14,7 +14,7 @@ fast and functional without the useless features of other music players.
   - [**monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
   - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
   - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
-- [**musikr**](https://github.com/OxygenCobalt/musikr): A partially complete metadata library that I lost interest in
+- [**musikr**](https://github.com/OxygenCobalt/musikr): An incomplete audio metadata library that I lost interest in
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
 - Thats about it. I don't really work on small finite projects.
 
