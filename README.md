@@ -26,4 +26,4 @@ fast and functional without the useless features of other music players.
 
 #### Other info
 
-GPG: `37DBE3621FE9AD47` (I always sign my non-GitHub commits with this)
+- GPG: `37DBE3621FE9AD47` (I always sign my non-GitHub commits with this)
