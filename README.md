@@ -1,14 +1,13 @@
-Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt.
-I'm a programmer from Colorado that enjoys android development and systems programming.
+Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt. I'm a programmer from Colorado that enjoys android development and systems programming.
 
 #### What I'm working on
 
 - [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-- [**musikr**](https://github.com/OxygenCobalt/musikr): An audio tagger that I lost interest in, but am trying to revive again.
+- **Lockbox:** An in-progress KeePass-compatible password manager.
 
-- A currently unnamed keepass-compatible password manager.
+- [**musikr**](https://github.com/OxygenCobalt/musikr): An audio tagger that I lost interest in, but am trying to revive again.
 
 #### What I've done
 
@@ -24,3 +23,7 @@ fast and functional without the useless features of other music players.
 - More systems/embedded programming
 - More command line utilities/curses programs
 - More android-related utilities and android apps
+
+#### Other info
+
+GPG: `37DBE3621FE9AD47` (I always sign my non-GitHub commits with this)
