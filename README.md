@@ -26,6 +26,6 @@ fast and functional without the useless features of other music players.
 
 #### Other info
 
-- GPG: `37DBE3621FE9AD47` (I always sign my non-GitHub commits with this)
 - Messaging: Use E-Mail. I do not like Discord or Telegram.   
 - Social Media: Is an psychologically unhealthy vice.
+- PGP Key (Have one, working on making a public key)
