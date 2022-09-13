@@ -27,7 +27,7 @@ fast and functional without the useless features of other music players.
 #### Other info
 
 - Messaging: Use E-Mail. I do not like Discord or Telegram.   
-- Social Media: Is an psychologically unhealthy vice.
+- Social Media: Is a psychologically unhealthy vice.
 - PGP:
     - <details><summary>Public Key</summary>
       <p>
