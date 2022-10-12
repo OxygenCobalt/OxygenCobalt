@@ -1,18 +1,22 @@
 Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt. I'm a programmer from Colorado that enjoys android development and systems programming.
 
-#### What I'm working on
+#### Active and complete projects
 
 - [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-- **lockbox:** An in-progress KeePass-compatible password manager.
+#### Projects I'm working on/Want to do
 
-- [**musikr**](https://github.com/OxygenCobalt/musikr): An audio tagger that I lost interest in, but am trying to revive again.
+- **Lockbox:** An in-progress KeePass-compatible password manager.
 
-#### What I've done
+- **Musikr:** A command-line music tagger.
+
+- An unnamed subsonic server implementation
+
+#### Other projects
 
 - A few games:
-  - [**monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
+  - [**Monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
   - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
   - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
@@ -20,6 +24,7 @@ fast and functional without the useless features of other music players.
 
 #### What I want to do
 
+- Backend development
 - More systems/embedded programming
 - More command line utilities/curses programs
 - More android-related utilities and android apps
