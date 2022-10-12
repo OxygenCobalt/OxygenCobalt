@@ -5,7 +5,7 @@ Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt. I'm a programmer fro
 - [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
 fast and functional without the useless features of other music players.
 
-#### Projects I'm working on/Want to do
+#### Projects I'm working on
 
 - **Lockbox:** An in-progress KeePass-compatible password manager.
 
