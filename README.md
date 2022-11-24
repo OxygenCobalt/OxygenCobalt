@@ -9,8 +9,6 @@ fast and functional without the useless features of other music players.
 
 - **Lockbox:** An in-progress KeePass-compatible password manager.
 
-- **Musikr:** A command-line music tagger.
-
 - An unnamed subsonic server implementation
 
 #### Other projects
