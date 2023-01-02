@@ -17,7 +17,7 @@ fast and functional without the useless features of other music players.
   - [**Monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
   - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
   - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
-  - [**Solitaire**](https://github.com/OxygenCobalt/Solitaire) (CSCI200 Final Project)
+  - [**Solitaire**](https://github.com/OxygenCobalt/Solitaire) (Solitaire Game)
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
 - Thats about it. I don't really work on small finite projects.
 
