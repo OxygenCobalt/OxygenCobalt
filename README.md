@@ -7,8 +7,6 @@ fast and functional without the useless features of other music players.
 
 #### Projects I'm working on
 
-- **musikr**: A command-line music tagger.
-
 - **Lockbox**: An KeePass-compatible password manager.
 
 #### Other projects
