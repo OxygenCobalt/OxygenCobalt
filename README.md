@@ -27,12 +27,13 @@ fast and functional without the useless features of other music players.
 - A music streaming server implementation
 - A particle simulator / powder toy clone
 
-#### What I want to do
+#### What I want to learn
 
 - Backend development
+- "Trendier" android frameworks (Dependency Injection, Jetpack Compose, etc.)
+- Some web development
 - More systems/embedded programming
-- More command line utilities/curses programs
-- More android-related utilities and android apps
+- Curses and other command-line utilities
 
 #### Other info
 
