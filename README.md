@@ -7,9 +7,9 @@ fast and functional without the useless features of other music players.
 
 #### Projects I'm working on
 
-- **Lockbox:** An in-progress KeePass-compatible password manager.
+- **musikr**: A command-line music tagger.
 
-- An unnamed subsonic server implementation
+- **Lockbox**: An KeePass-compatible password manager.
 
 #### Other projects
 
@@ -20,6 +20,12 @@ fast and functional without the useless features of other music players.
   - [**Solitaire**](https://github.com/OxygenCobalt/Solitaire) (Solitaire Game)
 - A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
 - Thats about it. I don't really work on small finite projects.
+
+#### Projects I want to do
+
+- A "Year in Pixels"-like mood tracker app
+- A music streaming server implementation
+- A particle simulator / powder toy clone
 
 #### What I want to do
 
