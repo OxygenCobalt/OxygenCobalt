@@ -29,11 +29,11 @@ fast and functional without the useless features of other music players.
 
 #### What I want to learn
 
-- Backend development
+- Backend development (Go)
 - "Trendier" android frameworks (Dependency Injection, Jetpack Compose, etc.)
-- Some web development
+- Some web development (Typescript)
 - More systems/embedded programming
-- Curses and other command-line utilities
+- Curses and other CLI UIs
 
 #### Other info
 
