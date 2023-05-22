@@ -18,7 +18,7 @@ fast and functional without the useless features of other music players.
 #### Projects I want to do
 
 - A "Year in Pixels"-like mood tracker app
-- A weather app built off of wttr.in
+- A weather app
 - A producivity app that follows my specific planner style
 - A music streaming server implementation
 - A particle simulator / powder toy clone
