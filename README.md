@@ -1,41 +1,25 @@
-Hi. I'm Alex, but I prefer to go by my handle OxygenCobalt. I'm a programmer from Colorado that enjoys android development and systems programming.
+Hi. I'm Alex, but I prefer to go by my username OxygenCobalt. I'm a full-stack software engineer and Computer Science student
+at [Colorado School of Mines](https://mines.edu) with a passion for android apps, backend development, and music. Currently,
+I'm working on a new app, the website for Mines ACM, and the new backend of [Accrescent](https://accrescent.app).
 
-#### Active and complete projects
+I'm most known as the creator and primary maintainer of [Auxio](https://github.com/OxygenCobalt/Auxio), a slick and modern music
+player android app with thousands of users. Some of my smaller projects include implementations of [Solitaire](https://github.com/OxygenCobalt/Solitaire),
+[Chess](https://github.com/OxygenCobalt/FXChess), and [Minesweeper](https://github.com/OxygenCobalt/Sweepered), and a
+[puzzle-platformer](https://github.com/OxygenCobalt/monoman). 
 
-- [**Auxio**](https://github.com/OxygenCobalt/Auxio): An android music player I primarly made for myself. Designed to be
-fast and functional without the useless features of other music players.
+#### Languages
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-#### Other projects
+#### Technologies
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- A few games:
-  - [**Monoman**](https://github.com/OxygenCobalt/monoman) (Puzzle-Platformer)
-  - [**FXChess**](https://github.com/OxygenCobalt/FXChess) (Chess)
-  - [**Sweepered**](https://github.com/OxygenCobalt/Sweepered) (Minesweeper Clone)
-  - [**Solitaire**](https://github.com/OxygenCobalt/Solitaire) (Solitaire Game)
-- A bunch of [other old/small projects](https://github.com/OxygenCobalt/Project-Archive) over the years.
-- Thats about it. I don't really work on small finite projects.
-
-#### Projects I want to do
-
-- A "Year in Pixels"-like mood tracker app
-- A weather app
-- A producivity app that follows my specific planner style
-- A music streaming server implementation
-- A particle simulator / powder toy clone
-- A KeePass password manager implementation
-
-#### What I want to learn
-
-- Backend development (Go)
-- "Trendier" android frameworks (Dependency Injection, Jetpack Compose, etc.)
-- Some web development (Typescript)
-- More systems/embedded programming
-- Curses and other CLI UIs
+#### Tooling
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 #### Other info
 
-- Messaging: Use E-Mail. I do not like Discord or Telegram.   
-- Social Media: Is a psychologically unhealthy vice.
+- Messaging: Use my Email to the left.   
+- Social Media: I have a [LinkedIn](https://www.linkedin.com/in/alexcpht/).
 - PGP:
     - <details><summary>Public Key</summary>
       <p>
