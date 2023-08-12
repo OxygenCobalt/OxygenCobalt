@@ -18,8 +18,8 @@ player android app with thousands of users. Some of my smaller projects include 
 
 #### Other info
 
-- Messaging: Use my Email to the left.   
-- Social Media: I have a [LinkedIn](https://www.linkedin.com/in/alexcpht/).
+- Messaging: Use my Email to the left.
+- Social Media: You can connect with me on [LinkedIn](https://www.linkedin.com/in/alexcpht/).
 - PGP:
     - <details><summary>Public Key</summary>
       <p>
