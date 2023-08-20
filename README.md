@@ -1,6 +1,6 @@
 Hi. I'm Alex, but I prefer to go by my username OxygenCobalt. I'm a full-stack software engineer and Computer Science student
 at [Colorado School of Mines](https://mines.edu) with a passion for android apps, backend development, and music. Currently,
-I'm working on a new app, the website for Mines ACM, and the new backend of [Accrescent](https://accrescent.app).
+I'm working on a new app based on Jetpack Compose, the website for Mines ACM, and the new backend of [Accrescent](https://accrescent.app).
 
 I'm most known as the creator and primary maintainer of [Auxio](https://github.com/OxygenCobalt/Auxio), a slick and modern music
 player android app with thousands of users. I've also made a variety of smaller games, including implementations of
