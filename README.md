@@ -1,13 +1,12 @@
 Hi. I'm Alex, but I prefer to go by my username OxygenCobalt. I'm a full-stack software engineer and Computer Science student
-at [Colorado School of Mines](https://mines.edu) with a passion for android apps, backend development, and music. This summer
-I'm going to be a SWE intern at [Ombud](https://ombud.com), work on software for Golden's [OreCart](https://github.com/OreCart) transit system,
-and experiment with some new projects.
+at [Colorado School of Mines](https://mines.edu) with a passion for android apps, backend development, and music. I'm currently
+an SWE intern at [Ombud](https://ombud.com) and want to work on some more hardware focused projects at some point.
 
 I'm most known as the creator and primary maintainer of [Auxio](https://github.com/OxygenCobalt/Auxio), a slick and modern music
 player android app with thousands of users. I'm also involved in [Mines ACM](https://acm.mines.edu), the on-campus computer science
-club, contributing to their new [Website](https://github.com/ColoradoSchoolOfMines/acm-site). I've also made a variety of
-smaller games, including implementations of [Solitaire](https://github.com/OxygenCobalt/Solitaire), [Chess](https://github.com/OxygenCobalt/FXChess), and
-[Minesweeper](https://github.com/OxygenCobalt/Sweepered), plus a [puzzle platformer](https://github.com/OxygenCobalt/monoman). 
+club, contributing to their new [Website](https://github.com/ColoradoSchoolOfMines/acm-site). A long time ago I also made some little games
+([Solitaire](https://github.com/OxygenCobalt/Solitaire), [Chess](https://github.com/OxygenCobalt/FXChess), [Minesweeper](https://github.com/OxygenCobalt/Sweepered),
+[monoman](https://github.com/OxygenCobalt/monoman))
 
 You can read more about me on my [Portfolio Site](https://oxycblt.org).
 
