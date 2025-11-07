@@ -1,6 +1,8 @@
 Hi. I'm Alex, but I prefer to go by my username OxygenCobalt. I'm a full-stack software engineer and Computer Science student
 at [Colorado School of Mines](https://mines.edu) with a passion for Christ, android apps, backend development, and music. 
 
+Currently I'm learning ML engineering and GPU programming.
+
 I've worked as a software engineering intern at [Salesforce](https://salesforce.com), helping customers visualize costs in
 development instances of the Salesforce platform, and at [Ombud](https://ombud.com), working on natively integrating support for
 Ombud's CRM into Microsoft Excel. I also worked as a part-time software engineer for the OreCart Transit System,
