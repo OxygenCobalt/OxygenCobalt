@@ -9,11 +9,11 @@ Generalist software engineer. Follower of Jesus Christ.
     - [Auxio](https://github.com/OxygenCobalt/Auxio): Primary maintainer of a modern local music player app for Android.
     - OreCart Transit System: Helped digitize route and arrival information into an easy-to-use mobile app.
     - [Website](https://github.com/ColoradoSchoolOfMines/acm-site) for [Mines ACM](https://acm.mines.edu)
-    - [A few](https://github.com/OxygenCobalt/Solitaire) [small](https://github.com/OxygenCobalt/FXChess) [games](https://github.com/OxygenCobalt/Sweepered) [too](https://github.com/OxygenCobalt/monoman)
+    - [A few](https://github.com/OxygenCobalt/Solitaire) [small](https://github.com/OxygenCobalt/FXChess) [games](https://github.com/OxygenCobalt/Sweepered) [too.](https://github.com/OxygenCobalt/monoman)
 
 You can read more about me on my [Portfolio Site](https://oxycblt.org).
 
-[Help support persecuted Christians in Nigeria!](https://equippingthepersecuted.org/)
+[**Help support persecuted Christians in Nigeria!**](https://equippingthepersecuted.org/)
 
 #### Other info
 
