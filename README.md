@@ -3,12 +3,12 @@ Generalist software engineer. Follower of Jesus Christ.
 - Currently: Engineering @ [Razorbill](https://joinrazorbill.com), helping doctors get paid with computer-use agents that automate medical billing end-to-end within their practice's own software.
 - Education: Computer Science @ Colorado School of Mines
 - Previously:
-    - Salesforce: Helped sales teams demonstrate the cost of features to clients significantly more accurately.
-    - Ombud: Natively integrated support for Ombud's CRM in Microsoft Excel
+    - Intern @ [Salesforce](https://salesforce.com): Helped sales teams more accurately demonstrate features cost to prospective clients.
+    - Intern @ [Ombud](https://ombud.com): Natively integrated support for Ombud's CRM in Microsoft Excel.
 - Projects:
     - [Auxio](https://github.com/OxygenCobalt/Auxio): Primary maintainer of a modern local music player app for Android.
-    - OreCart Transit System: Helped digitize route and arrival information into an easy-to-use mobile app.
-    - [Website](https://github.com/ColoradoSchoolOfMines/acm-site) for [Mines ACM](https://acm.mines.edu)
+    - [OreCart App](https://github.com/ColoradoSchoolOfMines/OreCart-App): Helped digitize route and arrival information into an easy-to-use mobile app.
+    - [Website](https://github.com/ColoradoSchoolOfMines/acm-site) for [Mines ACM](https://acm.mines.edu): Built out redesigned website alongside a meeting and attendance system for the club.
     - [A few](https://github.com/OxygenCobalt/Solitaire) [small](https://github.com/OxygenCobalt/FXChess) [games](https://github.com/OxygenCobalt/Sweepered) [too.](https://github.com/OxygenCobalt/monoman)
 
 You can read more about me on my [Portfolio Site](https://oxycblt.org).
