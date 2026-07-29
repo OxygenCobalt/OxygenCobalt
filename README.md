@@ -1,6 +1,6 @@
 Generalist software engineer. Follower of Jesus Christ.
 
-- Currently: Engineering @ Razorbill, helping doctors get paid with computer-use agents that automate medical billing end-to-end.
+- Currently: Engineering @ [Razorbill](https://joinrazorbill.com), helping doctors get paid with computer-use agents that automate medical billing end-to-end within their practice's own software.
 - Education: Computer Science @ Colorado School of Mines
 - Previously:
     - Salesforce: Helped sales teams demonstrate the cost of features to clients significantly more accurately.
