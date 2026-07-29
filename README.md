@@ -1,7 +1,7 @@
 Generalist software engineer. Follower of Jesus Christ.
 
 - Currently: Engineering @ [Razorbill](https://joinrazorbill.com), helping doctors get paid with computer-use agents that automate medical billing end-to-end within their practice's own software.
-- Education: Computer Science @ Colorado School of Mines
+- Education: Computer Science @ [Colorado School of Mines](https://mines.edu)
 - Previously:
     - Intern @ [Salesforce](https://salesforce.com): Helped sales teams more accurately demonstrate features cost to prospective clients.
     - Intern @ [Ombud](https://ombud.com): Natively integrated support for Ombud's CRM in Microsoft Excel.
